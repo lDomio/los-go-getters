@@ -1,0 +1,5 @@
+*.log
+*.bin
+swapfile.bin
+memoria/dump/
+**/dump/*.bin
